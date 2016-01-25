@@ -1,0 +1,20 @@
+Avg Top 5 
+3.6=318: Shawshank Redemption, The (1994)
+3.2666666666666666=260: Star Wars: Episode IV - A New Hope (1977)
+3.2222222222222223=541: Blade Runner (1982)
+3.1666666666666665=1265: Groundhog Day (1993)
+3.0625=593: Silence of the Lambs, The (1991)
+Rate >4 
+rate >4 = 0% 
+User Amount Top 5 
+17.0=1: Toy Story (1995)
+16.0=593: Silence of the Lambs, The (1991)
+15.0=260: Star Wars: Episode IV - A New Hope (1977)
+14.0=1210: Star Wars: Episode VI - Return of the Jedi (1983)
+13.0=780: Independence Day (ID4) (1996)
+Similar to Star War: Episode IV - A New Hope (1977)  Top 5 
+1.24=318: Shawshank Redemption, The (1994)
+1.2148148148148148=541: Blade Runner (1982)
+1.2111111111111112=1265: Groundhog Day (1993)
+1.2041666666666666=593: Silence of the Lambs, The (1991)
+1.2=34: Babe (1995)
